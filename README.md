@@ -1,0 +1,2 @@
+# Data-Analysis-With-R
+My journey through data analysis with R. Ranging from basic R functions to very important theories of statistics applied in R, this repository shows my progression in Data analysis. Since R is a power tool everything is coded in R from basic calculations to plotting graphs to hypothesis testing and much more. I am hoping to learn more and progress in the data analysis field daily. 
